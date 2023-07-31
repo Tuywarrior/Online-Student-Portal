@@ -11,7 +11,7 @@ includes the information about the subject opted by individual student. This may
 also include the credits as well the useful materials the students may require for 
 their academics. 
 
-Tables:
+# Tables:
 - Student
 - Project
 - Attendance
