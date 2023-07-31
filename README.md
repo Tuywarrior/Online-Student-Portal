@@ -24,3 +24,5 @@ their academics.
 
 
 ## ER Diagram:
+
+![image](https://github.com/Tuywarrior/Online-Student-Portal/assets/87844490/c5571ec6-e6ec-4e1b-83f5-bd119a39182e)
