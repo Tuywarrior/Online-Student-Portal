@@ -26,3 +26,8 @@ their academics.
 ## ER Diagram:
 
 ![image](https://github.com/Tuywarrior/Online-Student-Portal/assets/87844490/c5571ec6-e6ec-4e1b-83f5-bd119a39182e)
+
+## Relationship Schema:
+
+![image](https://github.com/Tuywarrior/Online-Student-Portal/assets/87844490/b55a0c5a-0359-45cb-899a-7827c060210a)
+
