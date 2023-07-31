@@ -21,3 +21,6 @@ their academics.
 - Faculty
 - Assignment
 - Fees
+
+
+## ER Diagram:
